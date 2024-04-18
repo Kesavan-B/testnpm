@@ -1,0 +1,23 @@
+{
+  "name": "testnpmdownexcel",
+  "version": "1.0.0",
+  "description": "An excel download",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kesavan-B/testnpm.git"
+  },
+  "keywords": [
+    "downloadexcell"
+  ],
+  "author": "kesavan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kesavan-B/testnpm/issues"
+  },
+  "homepage": "https://github.com/Kesavan-B/testnpm#readme"
+  
+}

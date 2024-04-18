@@ -4,5 +4,5 @@ An excel download code.
 
 # installation
 
-`npm i downloadexcelcode --save`
+`npm i testnpmdownexcel`
 
